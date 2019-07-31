@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sp08-hystrix-dashboard
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tarena
+Implementation-Vendor-Id: com.tedu
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sp08-hystrix-dashboard
+Created-By: Maven Integration for Eclipse
+
